@@ -1,13 +1,3 @@
-## Cloudflare代理脚本
-
-## 支持workers与pages两种形式部署
-
-## 现实vless+ws+tls与vless+ws两种代理节点
-
-## 详细说明教程请参考[甬哥博客及视频教程](https://ygkkk.blogspot.com/2023/07/cfworkers-vless.html)
---------------------------------
-### CF vless代码默认修改内容
-
 1、UUID默认已更换，强烈建议自定义
 
 2、proxyIP默认为香港地区的固定IP（支持访问CF类网站哦！），可自定义
